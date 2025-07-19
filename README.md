@@ -33,10 +33,11 @@ mv ~/.local/share/nvim{,.bak}
 mv ~/.local/state/nvim{,.bak}
 mv ~/.cache/nvim{,.bak}
 ```
-```
-```
 
 **Clone this configuration**
+```bash
+git clone https://github.com/Arielsito/neovim ~/.config/nvim
+```
 
 **Install pywalfox (If not installed)**
 ```bash
