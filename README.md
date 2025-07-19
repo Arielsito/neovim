@@ -2,6 +2,9 @@
 
 > ✨ My configuration is inspired in [craftzdog dotfiles](https://github.com/craftzdog/dotfiles-public)
 
+> [!WARNING]
+> This configuration is built and tested only in Arch Linux. While most features should work on other Unix-like systems, the pwal integration may require addicional setup on macOS/other linux distributions.
+
 ### Requirements
 
 - Neovim >= **0.9.0** (needs to be built with **LuaJIT**)
