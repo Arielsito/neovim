@@ -56,8 +56,6 @@ pip install pywal
 ```bash
 nvim
 ```
-```
-```
 
 > LazyVim will automatically install all plugins on first launch.
 
