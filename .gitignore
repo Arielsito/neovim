@@ -1,0 +1,17 @@
+.lazy/
+
+.repro/
+data/
+state/
+cache/
+
+.neoconf.json
+
+.DS_Store
+Thumbs.db
+
+*.swp
+*.swo
+*~
+
+*.log
