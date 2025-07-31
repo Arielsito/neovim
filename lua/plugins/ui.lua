@@ -194,6 +194,16 @@ return {
 		enabled = false,
 	},
 
+	{
+		"catppuccin",
+		enabled = false,
+	},
+
+	{
+		"tokyonight.nvim",
+		enabled = false,
+	},
+
 	-- Vim-Tmux Navigator
 	{
 		"christoomey/vim-tmux-navigator",
