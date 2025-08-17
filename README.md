@@ -42,7 +42,7 @@ mv ~/.cache/nvim{,.bak}
 git clone https://github.com/Arielsito/neovim ~/.config/nvim
 ```
 
-**Install pywalfox (If not installed)**
+**Install python-pywal (If not installed)**
 ```bash
 
 # Arch linux
