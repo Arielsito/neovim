@@ -35,6 +35,6 @@ keymap.set("n", "<up>", "<C-w>+")
 keymap.set("n", "<down>", "<C-w>-")
 
 -- LSP
-keymap.set("n", "<C-j>", function()
+keymap.set("n", "<C-M-j>", function()
 	vim.diagnostic.goto_next({ float = false })
 end, opts)
