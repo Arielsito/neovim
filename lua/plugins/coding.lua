@@ -10,7 +10,7 @@ return {
 		"MeanderingProgrammer/render-markdown.nvim",
 		dependencies = {
 			"nvim-treesitter/nvim-treesitter",
-			"echasnovski/mini.nvim",
+			"nvim-mini/mini.nvim",
 		},
 		---@type 'render-markdown'
 		---@type render.md.UserConfig
@@ -22,6 +22,7 @@ return {
 		"zbirenbaum/copilot.lua",
 		opts = {
 			suggestion = {
+				enable = true,
 				auto_trigger = true,
 				keymap = {
 					accept = "<C-l>",
